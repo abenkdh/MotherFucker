@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item n1:state_pressed="true"
+        xmlns:n1="http://schemas.android.com/apk/res/android">
+        <shape n1:shape="rectangle">
+            <corners n1:radius="3.0dip" />
+            <stroke n1:width="1.0dip" n1:color="@color/button_splash2" />
+            <gradient n1:startColor="@color/button_splash2" n1:endColor="@color/button_splash2" n1:angle="-90.0" />
+        </shape>
+    </item>
+    <item n2:state_focused="true"
+        xmlns:n2="http://schemas.android.com/apk/res/android">
+        <shape n2:shape="rectangle">
+            <corners n2:radius="3.0dip" />
+            <stroke n2:width="1.0dip" n2:color="@color/button_splash2" />
+            <solid n2:color="@color/button_splash_dark2" />
+        </shape>
+    </item>
+    <item>
+        <shape n3:shape="rectangle"
+            xmlns:n3="http://schemas.android.com/apk/res/android">
+            <corners n3:radius="3.0dip" />
+            <stroke n3:width="1.0dip" n3:color="@color/button_splash2" />
+            <gradient n3:startColor="@color/button_splash2" n3:endColor="@color/button_splash2" n3:angle="-90.0" />
+        </shape>
+    </item>
+</selector>

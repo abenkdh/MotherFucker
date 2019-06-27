@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="ro.product.locale.region">US</string>
+    <string name="ro.build.host">mi-server</string>
+    <string name="ro.build.date.utc">1521719384</string>
+    <string name="ro.build.time">1552690659</string>
+    <string name="ro.build.version.security_patch">2019-03-01</string>
+    <string name="ro.product.model">Redmi 6A</string>
+    <string name="ro.build.flavor">cactus-user</string>
+    <string name="ro.build.date">Sat Mar 16 05:57:39 WIB 2019</string>
+    <string name="ro.build.user">builder</string>
+    <string name="ro.product.board">mt6765</string>
+    <string name="ro.build.version.incremental">V10.2.8.0.OCBMIXM</string>
+    <string name="ro.board.platform">mt6765</string>
+    <string name="ro.build.characteristics">default</string>
+    <string name="ro.product.brand">xiaomi</string>
+    <string name="ro.build.display.id">O11019</string>
+    <string name="ro.product.device">cactus</string>
+    <string name="ro.build.type">user</string>
+    <string name="ro.build.id">O11019</string>
+    <string name="ro.product.manufacturer">Xiaomi</string>
+    <string name="ro.build.description">cactus-user 8.1.0 O11019 V10.2.8.0.OCBMIXM release-keys</string>
+    <string name="ro.product.name">cactus</string>
+    <string name="ro.build.product">cactus</string>
+    <string name="ro.product.locale.language">en</string>
+    <string name="ro.build.fingerprint">xiaomi/cactus/cactus:8.1.0/O11019/V10.2.8.0.OCBMIXM:user/release-keys</string>
+</map>

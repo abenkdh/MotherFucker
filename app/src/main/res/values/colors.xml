@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#000000</color>
+    <color name="button_splash">#FFFFFF</color>
+    <color name="button_splash_dark">#FFFFFF</color>
+    <color name="button_splash2">#212121</color>
+    <color name="button_splash_dark2">#212121</color>
+    <color name="background">#f2f2f2</color>
+    <color name="bypassed">#00FF07</color>
+    <color name="not_bypassed">#FF0008</color>
+    <color name="colorRipple">#131313</color>
+    <color name="textColor">#131313</color>
+    <color name="red">#B24700</color>
+    <color name="lightRed">#FFF</color>
+    <color name="test">#A5A5A5</color>
+</resources>
